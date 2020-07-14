@@ -1,4 +1,4 @@
-#TheHappyCo
+# TheHappyCo
 
 Team name: TheHappyCo
 
